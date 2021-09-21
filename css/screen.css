@@ -1,0 +1,4 @@
+#wrapper{margin:48px 0px 0px 48px; overflow:auto}
+a{display:block; float:left; width:326px; height:204px; border:solid 10px #FAFAFA; margin-right:48px; margin-bottom:48px; background-color:#FAFAFA; border-radius:4px; -moz-border-radius:4px;}
+a:hover{border:solid 10px #EEE;}
+img{border:none; display:block; margin:0px auto;}
